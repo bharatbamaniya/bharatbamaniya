@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Bharat Kumar from India. You can check out my website at bharatkumar.ml
+I'm Bharat Kumar from India. You can check out my website at [bharatkumar.ml](https://bharatkumar.ml)
 <!--
 **bharatbamaniya/bharatbamaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
