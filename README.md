@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a final year student pursuing B.tech in Computer Science. also passionate about web development & coding. I have done projects in the same, please check it out in the portfolio section. You can check out my website at [bharatkumar.ml](https://bharatkumar.ml)
+I am a final year student pursuing B.tech in Computer Science, also passionate about web development & coding. I have done projects in the same, please check it out in the portfolio section. You can check out my website at [bharatkumar.ml](https://bharatkumar.ml)
 <!--
 **bharatbamaniya/bharatbamaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
